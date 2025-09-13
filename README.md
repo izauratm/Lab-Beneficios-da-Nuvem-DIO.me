@@ -91,7 +91,7 @@ Ao criar uma VM, é necessário escolher o tipo de disco e a conta de armazename
 ### Tipos de Conta de Armazenamento
 * Ao criar uma conta de armazenamento no Azure, precisamos escolher uma opção de redundância para garantir a durabilidade e a alta disponibilidade dos dados. A escolha certa é crucial e depende do nível de proteção que a empresa precisa, além do orçamento disponível.
 
-- **Standard Storage**: Suporta HDD e SSD padrão
+- **Standard Storage**: Suporta HDD e SSD padrão. 
 - **Premium Storage**: Necessária para discos SSD premium
 - **ZRS (Zone Redundant Storage)**: Redundância entre zonas
 1. LRS (Locally Redundant Storage): é a opção de menor custo e menos redundante
