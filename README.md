@@ -134,4 +134,4 @@ Esses conhecimentos são fundamentais para arquitetar soluções robustas, econ�
 - [Tutorial oficial para criar e gerenciar VMs Windows](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/tutorial-manage-vm)
 - [Guia rápido para criar instância gerenciada de SQL](https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=cli) 
 
-📎 Link do curso: [Microsoft Azure AZ-900 - DIO.me](https://web.dio.me/lab/computacao-da-nuvem-laboratorio/learning/6d6083cf-0291-428d-a5f2-c93166e6874d)
+📎 Link do curso: [Microsoft Azure AZ-900 - DIO.me](https://web.dio.me/track/microsoft-azure-az-900)
