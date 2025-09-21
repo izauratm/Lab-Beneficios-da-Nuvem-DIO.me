@@ -1,5 +1,5 @@
 # ☁️ Resumo do Lab: Benefícios da Nuvem com Microsoft Azure AZ-900
-Este repositório reúne os principais aprendizados adquiridos durante o laboratório de **Benefícios da Nuvem** e **Criando Máquinas Virtuais na Azure** da plataforma [DIO.me](https://web.dio.me), Módulo 1, do qual estou atualmente participando. O foco está nos benefícios e aplicações práticas da plataforma Microsoft Azure, explorando seus recursos e funcionalidades. O Bootcamp oferece uma base sólida em tecnologias de nuvem, abordando desde os conceitos fundamentais até os componentes essenciais da arquitetura Azure. Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais, configuração de bancos de dados e soluções de armazenamento, além de tópicos avançados como arquitetura em nuvem, governança, monitoramento e segurança de ambientes cloud. 
+Este repositório reúne os principais aprendizados adquiridos durante o curso de **Benefícios da Computação em Nuvem** da plataforma [DIO.me](https://web.dio.me), Conceitos Iniciais de Cloud com Azure - Módulo 1. O foco está nos benefícios e aplicações práticas da plataforma Microsoft Azure, explorando seus recursos e funcionalidades. O Bootcamp oferece uma base sólida em tecnologias de nuvem, abordando desde os conceitos fundamentais até os componentes essenciais da arquitetura Azure. Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais, configuração de bancos de dados e soluções de armazenamento, além de tópicos avançados como arquitetura em nuvem, governança, monitoramento e segurança de ambientes cloud. 
 
 ---
 
@@ -125,7 +125,7 @@ O laboratório sobre **Benefícios da Nuvem e Criação de Máquinas Virtuais na
 
 Esses conhecimentos são fundamentais para arquitetar soluções robustas, econômicas e preparadas para escalar conforme a demanda. A nuvem não é apenas uma tendência — é uma base estratégica para inovação.
 
-> Este conteúdo faz parte do projeto **Benefícios da Nuvem - Laboratório** da plataforma DIO.me.
+> Este conteúdo faz parte do projeto **Criando máquinas Virtuais na Azure - Laboratório** da plataforma DIO.me.
 
 ---
  
